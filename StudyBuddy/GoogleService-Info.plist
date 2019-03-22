@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>248943794401-a6kjgjqj8keb4gev3tjlva9tp4f4mctu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.248943794401-a6kjgjqj8keb4gev3tjlva9tp4f4mctu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBWEypIpVHEDY3ja8OQh7CcVzOI0lDDUE4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>248943794401</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.asingh54.StudyBuddy</string>
+	<key>PROJECT_ID</key>
+	<string>studdybuddy-30b96</string>
+	<key>STORAGE_BUCKET</key>
+	<string>studdybuddy-30b96.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:248943794401:ios:722f4b5bec85ae57</string>
+	<key>DATABASE_URL</key>
+	<string>https://studdybuddy-30b96.firebaseio.com</string>
+</dict>
+</plist>

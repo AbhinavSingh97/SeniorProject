@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/abhinav/Desktop/StudyBuddy/StudyBuddy/default.png">
+   </FileRef>
+   <FileRef
+      location = "group:StudyBuddy/GoogleService-Info.plist">
+   </FileRef>
+   <FileRef
+      location = "group:StudyBuddy.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
